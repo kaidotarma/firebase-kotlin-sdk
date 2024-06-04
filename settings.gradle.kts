@@ -23,5 +23,6 @@ pluginManagement {
         kotlin("plugin.serialization") version kotlinVersion
         id("com.android.application") version "8.1.3"
         id("org.jetbrains.kotlin.android") version "1.9.0"
+        id("maven-publish")
     }
 }
